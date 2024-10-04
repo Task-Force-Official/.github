@@ -30,7 +30,7 @@ Welcome to **Task Force**, one of the latest and most exciting events at ShriTeq
 
 ---
 
-## 🔥 Tools Allowed 
+## 🛠️ Tools Allowed 
 - **No AI Allowed**: Unless specified by a particular task, AI tools are not permitted.
 - **Traditional Resources**: Feel free to use documentation, Stack Overflow, and other traditional coding resources to assist you.
 

@@ -43,8 +43,9 @@ Welcome to **Task Force**, one of the latest and most exciting events at ShriTeq
 
 ---
 
-## 📅 Key Event Date  
-- **October 17th, 2024**  
+## 📅 Event Dates
+- ** Register by 8th October 2024**  
+- **Event starts October 17th, 2024**  
   **5:00 PM onwards**
 
 ---

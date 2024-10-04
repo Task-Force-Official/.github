@@ -1,11 +1,7 @@
----
-
 # 🚀 Task Force 2024  
 **Hosted by [Shriteq](https://shriteq.org/)**
 
 Welcome to **Task Force**, one of the latest and most exciting events at ShriTeq! Get ready to tackle interesting problems in a high-octane environment where speed, problem-solving, and adaptability are key to victory.
-
----
 
 ## 🌟 About the Event  
 **Task Force** is a 3-hour coding showdown where teams of 2 participants will compete to solve a series of 5-7 programming challenges. With 10 points awarded for each completed task (partial credit possible), and bonus challenges sprinkled throughout, the team with the highest score at the end wins. *Do you have what it takes?*

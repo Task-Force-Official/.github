@@ -20,9 +20,7 @@ Welcome to **Task Force**, one of the latest and most exciting events at ShriTeq
 
 ---
 
-## 🧑‍💻 How to Participate 
-- Gather your team of 2.
-- Complete as many tasks as you can within the 3-hour time frame.
+## 🧑‍💻 Submitting and Points
 - Submit your work as:
   - Source code for mini projects in a GitHub repository or as a .zip file.
   - Text (.txt) files containing answers to problems, where applicable.

@@ -1,5 +1,3 @@
-Here’s the README updated with the additional points you provided:
-
 ---
 
 # 🚀 Task Force 2024  
@@ -44,8 +42,8 @@ Welcome to **Task Force**, one of the latest and most exciting events at ShriTeq
 
 ## 🛠 Skills Required  
 - **No Advanced DSA Required**: While basic algorithms will be beneficial, you won’t need advanced data structures and algorithms.
-- **Practical Skills**: Depending on the task, you may need to use SQL queries, create APIs, apply object-oriented programming (OOP), and more.
-- The event is primarily focused on creating functions and solving logic-based problems efficiently.
+- **Practical Skills**: Depending on the task, you may need to use real world skills like SQL queries, create APIs, apply object-oriented programming (OOP), and more.
+- The event is primarily focused on using your problem solving to come up with creative solutions and find answers quickly, rather than testing your knowledge of high level concepts like heaps, linked lists etc...
 
 ---
 
@@ -58,5 +56,3 @@ Welcome to **Task Force**, one of the latest and most exciting events at ShriTeq
 Let the coding begin. **#TaskForce**
 
 ---
-
-This version includes your new points in a natural flow with the rest of the information.

@@ -1,5 +1,5 @@
 # 🚀 Task Force 2024  
-**Hosted by [Aarush Aggarwal](mailto:aarush@tsrs.tech) at [Shriteq](https://shriteq.org/)**
+**Hosted by [Aarush Aggarwal](mailto:aarush@tsrs.tech) and [Varun Sahni](mailto:varun@tsrs.tech) at [Shriteq](https://shriteq.org/)**
 
 Welcome to **Task Force**, one of the latest and most exciting events at ShriTeq! Get ready to tackle interesting problems in a high-octane environment where speed, problem-solving, and adaptability are key to victory.
 

@@ -37,6 +37,7 @@ Welcome to **Task Force**, one of the latest and most exciting events at ShriTeq
 ## 🧠 Skills Required  
 - **No Advanced DSA Required**: While basic algorithms will be beneficial, you won’t need advanced data structures and algorithms.
 - **Practical Skills**: Depending on the task, you may need to use real world skills like SQL queries, create APIs, apply object-oriented programming (OOP), and more.
+- **Git and GitHub**: Participants will have to use git and github for tasks. They're also widely used for collaboration on code, hence its best to familiarise yourself with these tools.
 - The event is primarily focused on using your problem solving to come up with creative solutions and find answers quickly, rather than testing your knowledge of high level concepts like heaps, linked lists etc...
 
 ---

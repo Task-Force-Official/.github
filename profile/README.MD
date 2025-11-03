@@ -1,5 +1,4 @@
-# 🚀 Task Force 2024  
-**Hosted by [Aarush Aggarwal](mailto:aarush@tsrs.tech) at [Shriteq](https://shriteq.org/)**
+# 🚀 Task Force 2025
 
 Welcome to **Task Force**, one of the latest and most exciting events at ShriTeq! Get ready to tackle interesting problems in a high-octane environment where speed, problem-solving, and adaptability are key to victory.
 
@@ -43,9 +42,7 @@ Welcome to **Task Force**, one of the latest and most exciting events at ShriTeq
 ---
 
 ## 📅 Event Dates
-- **Register by 8th October 2024**  
-
-- **Event starts October 17th, 2024**  
+- **Event starts November 5th, 2024**  
   **5:00 PM onwards**
 
 ---
